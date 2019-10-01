@@ -1,5 +1,8 @@
 <?php
 
+//P15/37031/2016
+//Anderson Akoto
+
 $link = mysqli_connect("68.183.232.101", "app-access", "akoto291996", "testapi");
 
 $firstname= $_POST['firstname'];
